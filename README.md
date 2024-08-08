@@ -1,9 +1,13 @@
-Olá, bem vindo(a) ao meu perfil👋
+### Boas vindas ao meu perfil 🩷
 
 Meu nome é Emilene Souza
 
-. Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-. Estou me desenvolvendo na linguagem JavaScript
+### Você pode entrar em contato comigo 📫
 
-. Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+paludettomarcelo@gmail.com
+
+@marcelopaludetto
